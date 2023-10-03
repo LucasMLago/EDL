@@ -3,10 +3,10 @@ This repository includes a study realized in the discipline Language Structure a
 objective is to learn more about Programming Languages, in majority about the Functional Paradigm and the Logical Paradigm.
 
 # Funcional Programming Paradigm
-Haskell
-Map
-Filter
-Fold
+**Haskell**
+**Map**
+**Filter**
+**Fold**
 
 # Logic Programming Paradigm
 SWI - Prolog

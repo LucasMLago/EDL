@@ -17,7 +17,4 @@ f = (\atual (primeiro, acumulador) ->
 med_bim :: [Int] -> [Int]
 med_bim lista = snd $ foldr f (True, []) lista
 
-
-
-
 main = print(med_bim [7,9,3,7]) -- retorna [8,5]

@@ -1,5 +1,6 @@
 /*
 Objetivo: observar a diferença de sintaxe entre uma lista l = [1,2,3,4] para uma lista em haskell
+Desenvolva uma lista encadeada em C da maneira mais linear possível
 */
 
 #include <stdio.h>
